@@ -1,4 +1,4 @@
-Converts csv data to JSON for the 'Hatches,Matches, Dispatches' map 
+Converts csv data to JSON for the 'Hatches, Matches, Dispatches' map 
 
 
 Assumes csv structure: 
