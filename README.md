@@ -1,4 +1,4 @@
-Converts csv data to JSON for the 'Hatches, Matches, Dispatches' map 
+Converts csv data to JSON for the 'Hatches, Matches, Dispatches' map (original data extracted from: [Name index of the births, marriages, deaths published in the Nanaimo Free Press, April 1874 to December 1899](http://dx.doi.org/10.25316/IR-19111))
 
 
 Assumes csv structure: 
